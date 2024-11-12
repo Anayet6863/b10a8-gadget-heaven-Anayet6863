@@ -1,0 +1,101 @@
+[
+  {
+    "product_id": 2,
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/x2KLB7N/Samsung-Galaxys215g.jpg",
+    "category": "Phones",
+    "price": 799,
+    "description": "Flagship smartphone with pro-grade camera.",
+    "specification": ["6.2-inch AMOLED display", "128GB storage", "5G capable"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/42j1H1Z/Google-Pixel-6-featured-image-packshot-review-Recovered-1024x691.jpg",
+    "category": "Phones",
+    "price": 599,
+    "description": "Pure Android experience with powerful AI features.",
+    "specification": ["6.4-inch OLED display", "128GB storage", "5G capable"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 4,
+    "product_title": "OnePlus 9 Pro",
+    "product_image": "https://i.ibb.co.com/wrw1kJj/oneplus-9-pro-1.jpg",
+    "category": "Phones",
+    "price": 969,
+    "description": "Smooth performance with a fluid display.",
+    "specification": ["6.7-inch AMOLED display", "256GB storage", "5G capable"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 5,
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/9qmyyzR/g-Pvyaz76t-ASn87-RCGu-Sd-Dc-1200-80.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Powerful Apple M1 chip for efficient performance.",
+    "specification": ["13.3-inch Retina display", "256GB SSD", "8GB RAM"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 6,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/J7K7kBJ/images.jpg",
+    "category": "Laptops",
+    "price": 1099,
+    "description": "Ultra-portable laptop with an InfinityEdge display.",
+    "specification": ["13.4-inch FHD+ display", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 7,
+    "product_title": "Sony WH-1000XM4",
+    "product_image": "https://i.ibb.co.com/Lxg3c2c/design-medium.jpg",
+    "category": "Headphones",
+    "price": 349,
+    "description": "Industry-leading noise cancellation headphones.",
+    "specification": ["Over-ear design", "30-hour battery life", "Bluetooth 5.0"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "iPad Pro 11",
+    "product_image": "https://i.ibb.co.com/0QRxz0M/kindle-paperwhite-2021-city-backdrop.webp",
+    "category": "Tablets",
+    "price": 799,
+    "description": "Professional tablet with powerful M1 chip.",
+    "specification": ["11-inch Liquid Retina display", "128GB storage", "5G capable"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/MZQqFS0/design-medium-1.jpg",
+    "category": "Laptops",
+    "price": 1199,
+    "description": "Convertible laptop with stunning design.",
+    "specification": ["13.5-inch 4K OLED display", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 10,
+    "product_title": "Canon EOS R5",
+    "product_image": "https://i.ibb.co.com/xzQ9CD2/eos-r5-martin-bissig-lifestyle-05-c629aad3c2154f34b3d7d7ba5a509196.jpg",
+    "category": "Cameras",
+    "price": 3899,
+    "description": "Mirrorless camera with 8K video recording.",
+    "specification": ["45MP full-frame sensor", "8K video", "Dual pixel autofocus"],
+    "availability": true,
+    "rating": 4.9
+  }
+]

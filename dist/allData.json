@@ -1,0 +1,135 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "iphone 11",
+      "product_image": "https://i.ibb.co.com/frvry9x/i-Phone-11.jpg",
+      "category": "Phones",
+      "price": 690,
+      "description": "High-performance smartphone with powerful camera.",
+      "specification": ["6.1-inch OLED display", "128GB storage", "5G capable"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 2,
+      "product_title": "iphone 15 pro max",
+      "product_image": "https://i.ibb.co.com/6PhL0Sh/iphone15promax.jpg",
+      "category": "Phones",
+      "price": 500,
+      "description": "Affordable smartphone with great battery life.",
+      "specification": ["6.4-inch LCD display", "64GB storage", "4G LTE"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 3,
+      "product_title": "Samsung S22 ultra",
+      "product_image": "https://i.ibb.co.com/ZN9dsn9/samsung-galaxy-s22-ultra.jpg",
+      "category": "Phones",
+      "price": 899,
+      "description": "Flagship smartphone with top-notch specs and design.",
+      "specification": ["6.8-inch AMOLED display", "256GB storage", "5G capable", "Triple-lens camera"],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": 4,
+      "product_title": "readmi note 9",
+      "product_image": "https://i.ibb.co.com/BNQfSj2/xiaomi-redmi-note-9.jpg",
+      "category": "Phones",
+      "price": 300,
+      "description": "Budget-friendly smartphone with essential features.",
+      "specification": ["5.5-inch LCD display", "32GB storage", "4G LTE"],
+      "availability": true,
+      "rating": 3.9
+    },
+    {
+      "product_id": 5,
+      "product_title": "xaomi 12",
+      "product_image": "https://i.ibb.co.com/XV5xRpP/xiaomi-12.jpg",
+      "category": "Phones",
+      "price": 750,
+      "description": "Advanced smartphone with high-end specs for gaming.",
+      "specification": ["6.7-inch Super AMOLED", "128GB storage", "5G capable", "Gaming mode"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 6,
+      "product_title": "Samsung A55",
+      "product_image": "https://i.ibb.co.com/yNL93Yx/samsung-galaxy-a55.jpg",
+      "category": "Phones",
+      "price": 650,
+      "description": "Compact smartphone with excellent performance.",
+      "specification": ["5.8-inch OLED display", "64GB storage", "5G capable"],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": 7,
+      "product_title": "MacBook-Pro-M3",
+      "product_image": "https://i.ibb.co.com/GcY344w/Mac-Book-Pro-M3.jpg",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "High-performance laptop for professional work.",
+      "specification": ["15.6-inch FHD display", "512GB SSD", "16GB RAM", "Intel i7"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 8,
+      "product_title": "Microsoft-Surface-Laptop",
+      "product_image": "https://i.ibb.co.com/jTCDvwF/Microsoft-Surface-Laptop.jpg",
+      "category": "Laptops",
+      "price": 799,
+      "description": "Lightweight laptop with all-day battery life.",
+      "specification": ["14-inch FHD display", "256GB SSD", "8GB RAM", "AMD Ryzen 5"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 9,
+      "product_title": "MacBook-Air-M3",
+      "product_image": "https://i.ibb.co.com/s56Zt3G/Mac-Book-Air-M3.jpg",
+      "category": "Laptops",
+      "price": 1499,
+      "description": "Gaming laptop with powerful graphics card and high refresh rate.",
+      "specification": ["15.6-inch 144Hz display", "1TB SSD", "32GB RAM", "NVIDIA RTX 3070"],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": 10,
+      "product_title": "MVEFOIT",
+      "product_image": "https://i.ibb.co.com/m8N1RbF/MVEFOIT.jpg",
+      "category": "Smartwatches",
+      "price": 149,
+      "description": "Smartwatch with essential health tracking features.",
+      "specification": ["Heart rate monitor", "Sleep tracking", "Bluetooth 4.2"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 11,
+      "product_title": "M1 Smart Watch",
+      "product_image": "https://i.ibb.co.com/x1QKtGs/M1-Smart-watch.jpg",
+      "category": "Smartwatches",
+      "price": 249,
+      "description": "Advanced smartwatch with GPS and water resistance.",
+      "specification": ["GPS", "Heart rate monitor", "Water-resistant up to 50m"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 12,
+      "product_title": "H30 Sports smartwatch",
+      "product_image": "https://i.ibb.co.com/LnyFh55/H30-sports-watch.jpg",
+      "category": "Smartwatches",
+      "price": 349,
+      "description": "Smartwatch with all-day battery life and LTE support.",
+      "specification": ["LTE connectivity", "ECG monitor", "Sleep tracking"],
+      "availability": false,
+      "rating": 4.6
+    }
+  ]
+  

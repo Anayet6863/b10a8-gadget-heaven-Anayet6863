@@ -1,0 +1,11 @@
+.button{
+    width: 60px !important;
+    height: 60px !important;
+}
+a.active{
+    color: black ;
+    background-color: white !important;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 32px;
+}
